@@ -15,6 +15,7 @@ const goA = (input) => {
         lijst2.push(subsplit[1]);
     });
 
+
     lijst1.sort(function(a, b) {
         return a - b;
     });
